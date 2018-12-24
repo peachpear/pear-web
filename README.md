@@ -1,6 +1,12 @@
 # pear-web
 pear让你更畅快地编程。pear-web是以pear-api为基础，增加web必要服务，重构为提供web访问服务的框架。
 
+### 前提准备
+
+必要服务支持：Mysql、Nginx、php-fpm、Redis、Kafka、RabbitMQ
+
+可选服务支持：Elasticsearch、Kibana、Jenkins
+
 ### 使用说明
 
 ```
